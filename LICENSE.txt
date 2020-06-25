@@ -205,6 +205,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 APIs
 
+<<<<<<< HEAD
 This project may include APIs to SAP or third party products or services. The use of these APIs, products and services may be subject to additional agreements. In no event shall the application of the Apache Software License, v.2 to this project grant any rights in or to these APIs, products or services that would alter, expand, be inconsistent with, or supersede any terms of these additional agreements. “API” means application programming interfaces, as well as their respective specifications and implementing code that allows other software products to communicate with or call on SAP or third party products or services (for example, SAP Enterprise Services, BAPIs, Idocs, RFCs and ABAP calls or other user exits) and may be made available through SAP or third party products, SDKs, documentation or other media.
 
 
@@ -549,6 +550,352 @@ Website: https://github.com/uxitten/polyfill
 License: MIT License
 <year> = 2017
 <copyright holders> = Behnam Mohammadi (بهنام محمدی)
+=======
+This project may include APIs to SAP or third party products or services. The use of these APIs, products and services may be subject to additional agreements. In no event shall the application of the Apache Software License, v.2 to this project grant any rights in or to these APIs, products or services that would alter, expand, be inconsistent with, or supersede any terms of these additional agreements. API means application programming interfaces, as well as their respective specifications and implementing code that allows other software products to communicate with or call on SAP or third party products or services (for example, SAP Enterprise Services, BAPIs, Idocs, RFCs and ABAP calls or other user exits) and may be made available through SAP or third party products, SDKs, documentation or other media.
+
+
+------------------------------------------------------------------------------
+OpenUI5 SUBCOMPONENTS:
+
+OpenUI5 includes the following subcomponents that are subject to separate license terms.
+Your use of these subcomponents is subject to the separate license terms applicable to
+each subcomponent.
+
+Component: ace 1.4.1
+Licensor: Ajax.org B.V.
+Website: https://ace.c9.io/
+License: BSD 3-clause "New" or "Revised" License
+<OWNER>: Ajax.org B.V.
+<ORGANIZATION>: Ajax.org B.V.
+<YEAR> = 2010
+
+Component: Array every Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: Array indexOf Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: Array map Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: Array reduce Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: Array reduceRight Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: blanket.js 1.1.5
+Licensor: Alex Seville
+Website: http://blanketjs.org/
+License: MIT License
+<year> = 2013
+<copyright holders>: Alex Seville
+
+Component: crossroads.js 0.12.0
+Licensor: Miller Medeiros
+Website: http://github.com/millermedeiros/crossroads.js/
+License: MIT License
+<year> = unspecified
+<copyright holders> = Miller Medeiros
+
+Component: d3 3.4.12
+Licensor: Michael Bostock
+Website: http://github.com/mbostock/d3/
+License: BSD 3-clause "New" or "Revised" License
+<OWNER> = Michael Bostock
+<ORGANIZATION> = Michael Bostock
+<YEAR> = 2010-2014
+
+Component: datajs - JavaScript Library for data-centric web applications 1.1.0
+Licensor: Microsoft
+Website: http://datajs.codeplex.com/
+License: MIT License
+<year> = unspecified
+<copyright holders> = Microsoft
+
+Component: Element getAttributeNames Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttributeNames#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: es6-promise v4.2.4 - a tiny implementation of Promises/A+.
+Licensor: Stefan Penner
+Website: https://github.com/stefanpenner/es6-promise
+License: MIT License
+<year> = 2014
+<copyright holders> = Yehuda Katz, Tom Dale, Stefan Penner, Jake Archibald and contributors
+
+Component: Esprima
+Licensor: Ariya Hidayat
+Website: http://esprima.org/
+License: BSD 2-clause "Simplified" License
+<YEAR> = 2011-2013
+<OWNER> = Ariya Hidayat and other contributors
+<COPYRIGHT HOLDER> = Ariya Hidayat and other contributors
+
+Component: Flexie 1.0.3
+Licensor: Richard Herrera
+Website: http://github.com/doctyper/flexie/
+License: MIT License
+<year> = 2010
+<copyright holders> = Richard Herrera
+
+Component: Function.prototype.bind
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: google-caja Build 4884
+Licensor: Various
+Website: http://code.google.com/p/google-caja/
+License: Apache License 2.0
+
+Component: google-code-prettify 20130304
+Licensor: Various
+Website: http://code.google.com/p/google-code-prettify/
+License: Apache License 2.0
+
+Component: Handlebars 4.0.5
+Licensor: Yehuda Katz
+Website: http://handlebarsjs.com/
+License: MIT License
+<year> = 2011-2015
+<copyright holders> = Yehuda Katz
+
+Component: Hasher 1.2.0
+Licensor: Miller Medeiros
+Website: http://github.com/millermedeiros/hasher
+License: MIT License
+<year> = unspecified
+<copyright holders> = Miller Medeiros
+
+Component: iscroll 4.2.5
+Licensor: Matteo Spinelli
+Website: http://github.com/cubiq/iscroll/
+License: MIT License
+<year> = 2008-2013
+<copyright holders> = Matteo Spinelli
+
+Component: jQuery 2.2.3
+Licensor: jQuery Foundation and other contributors
+Website: http://jquery.com/
+License: MIT License
+<year> = 2016
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: jQuery 3.1.1
+Licensor: jQuery Foundation and other contributors
+Website: http://jquery.com/
+License: MIT License
+<year> = 2016
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: jQuery-UI 1.10.4
+Licensor: Paul Bakaus
+Website: http://github.com/jquery/jquery-ui/
+License: MIT License
+<year> = 2014
+<copyright holders> = Paul Bakaus
+
+Component: jQuery mobile 1.3.1
+Licensor: jQuery Foundation and other contributors
+Website: http://jquerymobile.com/
+License: MIT License
+<year> = 2013
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: jquery-glob
+Licensor: Software Freedom Conservancy, Inc.
+Website: http://github.com/nje/jquery-globalize
+License: MIT License
+<year> = unspecified
+<copyright holders> = Software Freedom Conservancy, Inc.
+
+Component: jquery-mobile 1.3.1
+Licensor: jQuery Foundation, Inc. and other contributors
+Website: http://github.com/jquery/jquery-mobile/
+License: MIT License
+<year> = 2010, 2013
+<copyright holders> = jQuery Foundation, Inc. and other contributors
+
+Component: jquery.fix.clone
+Licensor: Spencer Tipping
+Website: https://github.com/spencertipping/jquery.fix.clone
+License: MIT License
+<year> = unspecified
+<copyright holders> = Spencer Tipping
+
+Component: js-signals 1.0.0
+Licensor: Miller Medeiros
+Website: http://github.com/millermedeiros/js-signals/
+License: MIT License
+<year> = unspecified
+<copyright holders> = Miller Medeiros
+
+Component: JSON in JavaScript
+Licensor: Douglas Crockford
+Website: http://www.json.org/js.html
+License: Public Domain
+
+Component: JSZip 2.2.0
+Licensor: Stuart Knightley, David Duponchel, Franz Buchinger, Ant�nio Afonso
+Website: https://github.com/Stuk/jszip
+License: MIT License
+<year> = 2009-2012
+<copyright holders> = Stuart Knightley, David Duponchel, Franz Buchinger, Ant�nio Afonso
+
+Component: JUnit Reporter for QUnit
+Licensor: jQuery Foundation and other contributors
+Website: https://github.com/JamesMGreene/qunit-reporter-junit
+License: MIT License
+
+Component: klay.js 0.4.1
+Licensor: Ulf Rueegg
+Website: https://github.com/OpenKieler/klayjs
+License: Eclipse Public License - v 1.0
+
+Component: less.js 1.6.3
+Licensor: Alexis Sellier & The Core Less Team
+Website: http://github.com/cloudhead/less.js/
+License: Apache License 2.0
+
+Component: mobify.js 1.1
+Licensor: Mobify R&D Inc
+Website: http://www.mobify.com/
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mobify R&D Inc
+
+Component: mobiscroll 2.9.0
+Licensor: Mathias Bynens
+Website: http://mobiscroll.codeplex.com/
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mathias Bynens
+
+Component: node-lru-cache 2.7.3 - A cache object that deletes the least-recently-used items.
+Licensor: Isaac Z. Schlueter and Contributors
+Website: https://github.com/isaacs/node-lru-cache/blob/v2.7.3/
+License: ISC License
+<year> = 2015
+<copyright holders> = Isaac Z. Schlueter and Contributors
+
+Component: Object assign Method
+Licensor: Mozilla Developer Network
+Website: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign#Polyfill
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Component: punycode.js 1.2.3
+Licensor: Acid Media
+Website: http://github.com/bestiejs/punycode.js/
+License: MIT License
+<year> = 2010
+<copyright holders> = Acid Media
+
+Component: qunit 1.18.0
+Licensor: jQuery Foundation and other contributors
+Website: http://github.com/jquery/qunit/
+License: MIT License
+<year> = 2006, 2014
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: qunit 2.3.2
+Licensor: jQuery Foundation and other contributors
+Website: http://github.com/jquery/qunit/
+License: MIT License
+<year> = 2017
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: qunit composite 1.0.4
+Licensor: jQuery Foundation and other contributors
+Website:https://github.com/JamesMGreene/qunit-composite
+License: MIT License
+<year> = unspecified
+<copyright holders> = jQuery Foundation and other contributors
+
+Component: requirejs 2.1.8
+Licensor: The Dojo Foundation
+Website: http://github.com/jrburke/requirejs/
+License: MIT License
+<year> = 2010-2011
+<copyright holders> = The Dojo Foundation
+
+Component: sinon-qunit 2.0.0
+Licensor: Christian Johansen
+Website: http://github.com/cjohansen/sinon-qunit/
+License: BSD 3-clause "New" or "Revised" License
+<OWNER> = Christian Johansen
+<ORGANIZATION> = Christian Johansen
+<YEAR> = 2010-2011
+
+Component: Sinon.JS 1.14.1
+Licensor: Christian Johansen
+Website: http://github.com/cjohansen/Sinon.JS/
+License: BSD 3-clause "New" or "Revised" License
+<OWNER> = Christian Johansen
+<ORGANIZATION> = Christian Johansen
+<YEAR> = 2010-2014
+
+Component: Sinon.JS 4.4.6
+Licensor: Christian Johansen
+Website: http://github.com/cjohansen/Sinon.JS/
+License: BSD 3-clause "New" or "Revised" License
+<OWNER> = Christian Johansen
+<ORGANIZATION> = Christian Johansen
+<YEAR> = 2010-2017
+
+Component: String startsWith Method 0.2.0
+Licensor: Mathias Bynens
+Website: https://github.com/mathiasbynens/String.prototype.startsWith
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mathias Bynens <https://mathiasbynens.be/>
+
+Component: String endsWith Method 0.2.0
+Licensor: Mathias Bynens
+Website: https://github.com/mathiasbynens/String.prototype.endsWith
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mathias Bynens <https://mathiasbynens.be/>
+
+Component: String includes Method 1.0.0
+Licensor: Mathias Bynens
+Website: https://github.com/mathiasbynens/String.prototype.includes
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mathias Bynens <https://mathiasbynens.be/>
+
+Component: String repeat Method 0.2.0
+Licensor: Mathias Bynens
+Website: https://github.com/mathiasbynens/String.prototype.repeat
+License: MIT License
+<year> = unspecified
+<copyright holders> = Mathias Bynens <https://mathiasbynens.be/>
+
+Component: String padStart Method 1.0.1
+Licensor: Behnam Mohammadi ((GF'E E-E/�)
+Website: https://github.com/uxitten/polyfill
+License: MIT License
+<year> = 2017
+<copyright holders> = Behnam Mohammadi ((GF'E E-E/�)
+
+Component: String padEnd Method 1.0.1
+Licensor: Behnam Mohammadi ((GF'E E-E/�)
+Website: https://github.com/uxitten/polyfill
+License: MIT License
+<year> = 2017
+<copyright holders> = Behnam Mohammadi ((GF'E E-E/�)
+>>>>>>> refs/heads/master
 
 Component: SwipeView 1.0
 Licensor: Matteo Spinelli
