@@ -7,7 +7,7 @@ sap.ui.define([
 	new Button({
 		text: "Ready...",
 		press: function () {
-			MessageToast.show("Hello World123!");
+			MessageToast.show("Hello World1234!");
 		}
 	}).placeAt("content");
 
